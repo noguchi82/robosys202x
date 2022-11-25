@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2022 Noguchi Kousuke <s20C1093JP@s.chibakoudai.jp>
-# SPDX-License-Identifier: GPL-3.0
+# SPDX-FileCopyrightText: 2022 Noguchi Kousuke <s20C1093@s.chibakoudai.jp>
 
 import sys
 
