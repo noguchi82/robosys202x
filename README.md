@@ -13,7 +13,7 @@ Python 3.7～3.10
 
 Noguchi Kousuke <s20C1093JP@s.chibakoudai.jp>
 
-## 謝辞
+## Contributing
 
 上田隆一准教授　斎藤洋文　池邉龍宏　高見俊介
 
