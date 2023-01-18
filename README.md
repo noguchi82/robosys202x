@@ -17,6 +17,8 @@ Noguchi Kousuke <s20C1093JP@s.chibakoudai.jp>
 
 上田隆一准教授　斎藤洋文　池邉龍宏　高見俊介
 
+## ライセンス
+
 *このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 
 *©　2022 Noguchi Kousuke
