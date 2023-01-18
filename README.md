@@ -9,11 +9,11 @@ Python 3.7～3.10
 ## 動作確認済環境
 * Ubuntu 22.04
 
-##開発者
+## 開発者
 
 Noguchi Kousuke <s20C1093JP@s.chibakoudai.jp>
 
-##謝辞
+## 謝辞
 
 上田隆一准教授　斎藤洋文　池邉龍宏　高見俊介
 
