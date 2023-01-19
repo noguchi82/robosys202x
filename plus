@@ -1,13 +1,15 @@
 #!/usr/bin/python3
-# SPDX-FileCopyrightText: 2022 Noguchi Kousuke <s20C1093@s.chibakoudai.jp>
+#SPDX-FileCopyrightText: 2022 Noguchi Kousuke <s20C1093@s.chibakoudai.jp>
+#SPDX-License-Identifier: BSD-3-Clause
 
 import sys
+import re
 
-ans = 0
+x = 0
 for line in sys.stdin:
     try:
-        ans += int(line)
+        x += int()
     except:
-        ans += float(line)
+        x += float(n)
 
-print(ans)
+print(x)
