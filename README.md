@@ -28,3 +28,11 @@ Noguchi Kousuke <s20C1093JP@s.chibakoudai.jp>
 *このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 
 *©　2022 Noguchi Kousuke
+
+## Releases
+
+No releases published
+
+## Packages
+
+NO packages published
