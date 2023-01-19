@@ -8,8 +8,8 @@ import re
 x = 0
 for line in sys.stdin:
     try:
-        x += int()
+        ans += int(line)
     except:
-        x += float(n)
+        ans += float(line)
 
-print(x)
+print(ans)
